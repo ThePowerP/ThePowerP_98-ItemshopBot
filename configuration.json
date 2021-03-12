@@ -1,0 +1,15 @@
+{
+    "delayStart": 0,
+    "fortniteAPI": {
+        "apiKey": "{afe020f65d9961c9c988f4596275dbdd5164cab5)"
+    },
+    "language": "en",
+    "supportACreator": "{}",
+    "twitter": {
+        "enabled": false,
+        "apiKey": "",
+        "apiSecret": "",
+        "accessToken": "",
+        "accessSecret": ""
+    }
+}
