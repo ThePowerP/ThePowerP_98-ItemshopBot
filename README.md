@@ -23,5 +23,3 @@ Puedes editar las imagenes que se encuentran en `assets/images/` a tu gusto. ¡N
 ```
 python itemshop.py
 ```
-
-Si tienes alguna duda o quires recibir ayuda te puedes unir a mi servidor de discord discord.gg/ZnZqNhXKaU
